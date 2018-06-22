@@ -1,0 +1,22 @@
+{
+  "name": "debugging-errores-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mantecorso/debugging-errores-.git"
+  },
+  "author": "Luis Jurado Quesada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mantecorso/debugging-errores-/issues"
+  },
+  "homepage": "https://github.com/Mantecorso/debugging-errores-#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
